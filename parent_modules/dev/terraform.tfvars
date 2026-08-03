@@ -6,6 +6,10 @@ rgs = {
   rg2 = {
     name     = "mod-rg9"
     location = "centralindia"
+    rg3 = {
+    name     = "mod-rg10"
+    location = "centralindia"
+  }
   }
 }
 subnets = {
